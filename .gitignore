@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets
+.env
+*.env
+
+# Model weights (downloaded at runtime, never committed)
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
+models/
+
+# Local database data
+pgdata/
