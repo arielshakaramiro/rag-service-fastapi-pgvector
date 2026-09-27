@@ -1,0 +1,11 @@
+llama-cpp-python
+fastapi
+uvicorn
+python-multipart
+psycopg2-binary
+pypdf
+sentence-transformers
+numpy
+pandas
+requests
+streamlit
